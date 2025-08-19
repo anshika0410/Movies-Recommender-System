@@ -1,1 +1,5 @@
-venvstrea
+#venvstrea
+#similarity.pkl
+
+.venv/
+similarity.pkl
