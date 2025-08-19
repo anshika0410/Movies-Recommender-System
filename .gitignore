@@ -1,5 +1,27 @@
-#venvstrea
-#similarity.pkl
-
+# Ignore virtual environment
+venv/
 .venv/
+
+# Ignore similarity.pkl (large file)
 similarity.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Model / data files
+*.pkl
+*.h5
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# System files
+.DS_Store
+Thumbs.db
