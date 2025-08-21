@@ -1,4 +1,4 @@
-🎬 Movie Recommendation System
+#H1**🎬 Movie Recommendation System**
 
 A machine learning–based recommendation system that suggests movies to users based on their preferences. The project implements Collaborative Filtering (KNN) and Deep Learning (AutoEncoder) approaches for personalized movie recommendations.
 
